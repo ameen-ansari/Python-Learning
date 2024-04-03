@@ -8,7 +8,7 @@ userQuestion = 'Please Enter Your Number here '
 userInput = input(userQuestion.upper())
 ```
 
-## Conditions on Python
+## Conditions in Python
 ```
 if (int(userInput) > 18):
     print('You can drive')
@@ -18,7 +18,7 @@ else:
 
 ## For loop in Python
 ```
-for item in range(0 , 20 , 7):
+for item in range(10):
     print(item)       
 ```
 
